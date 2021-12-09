@@ -8,4 +8,4 @@ Upwork's Top Rated Badge: As a freelancer system administrator, I've been in con
 
 ## Current interests
 
-My short-term goal is to get hired as a Full-Stack Developer. In order to achieve it I'm focused on mastering Javascript — more specifically the MERN stack and building an outstanding portfolio.
+My short-term goal is to get hired as a Full-Stack Developer. In order to achieve it, I'm focused on mastering Javascript — more specifically the MERN stack — and building an outstanding portfolio.
